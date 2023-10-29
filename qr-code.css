@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkatra:wght@500&family=Caprasimo&family=Caveat:wght@600&family=Dancing+Script:wght@600&family=Josefin+Sans:ital,wght@0,400;1,200&family=Kanit:ital,wght@0,200;1,200&family=Lobster&family=Montserrat:ital,wght@0,100;0,800;1,600&family=Noto+Sans+JP&family=Oswald&family=Outfit:wght@500&family=Pacifico&family=Playfair+Display:wght@600&family=Poppins:ital,wght@0,300;1,300&family=Raleway:ital@1&family=Roboto+Flex:opsz@8..144&family=Roboto+Mono:ital,wght@1,300&family=Roboto:ital,wght@0,300;1,100&family=Shadows+Into+Light&family=Source+Code+Pro:ital@1&family=Work+Sans:ital,wght@1,300&display=swap');
+*,::before,::after{
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Outfit', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: gray;
+}
+main{
+    background-color: #fff;
+    margin: 120px auto;
+    width: 380px;
+    border-radius: 20px;
+}
+img{
+    border-radius: 13px;
+    max-width: 100%;
+}
+.main{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.fs-txt h2{
+    font-weight: 700;
+}
+.fs-txt p{
+    font-weight: 400;
+}
